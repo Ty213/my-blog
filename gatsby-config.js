@@ -3,12 +3,12 @@ module.exports = {
     title: `What I've learned...`,
     author: {
       name: `Ty Thompson`,
-      summary: `⋆Developer⋆ `,
+      summary: `A developer that is always learning.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      github: `Ty213`,
+      twitter: ``,``
     },
   },
   plugins: [
